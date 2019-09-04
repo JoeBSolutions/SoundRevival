@@ -1,0 +1,93 @@
+body {
+    background: #efefef;
+    font-family: arial;
+    overflow: scroll;
+}
+
+
+h1 {
+    font-size: 18px;
+    }
+a {
+    color: white;
+ }
+a:hover {
+    color: #000000;
+    text-decoration: none;
+    overflow: auto;
+}
+h2 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    overflow: auto;
+    background-color: black;
+}
+
+li {
+
+    display: inline;
+    padding-right: 80px;
+    padding-left: 30px;
+    color: white;
+    overflow: auto;
+    height: 0;
+    text-decoration: none;
+  
+}
+p {
+    color: white;
+}
+
+
+
+
+li a:hover {
+    color: grey;
+}
+.icons {
+    width: auto;
+    height: auto;
+    
+}
+.contacts {
+    text-align: center;
+    padding-top: 20px;
+    display: inline;
+    margin-top: 20px;
+}
+
+.navbar {
+border: solid 6px white;
+}
+
+.titlebase {
+    padding-top: 900px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+.AboutUs {
+    padding-top: 100px;
+    text-align: center;
+}
+.services {
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+    justify-content: center;
+    
+}
+#ServiceTitle {
+    color: white;
+    text-align: center;
+
+}
